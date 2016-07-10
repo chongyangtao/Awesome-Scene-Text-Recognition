@@ -1,5 +1,5 @@
 # Scene Text Localization & Recognition Resources
-Following is a growing list of some of the materials I found on the web for research on "text localization and recognition based deep learning"
+A curated list of resources dedicated to scene text localization and recognition
 
 ## Papers & Code
 
