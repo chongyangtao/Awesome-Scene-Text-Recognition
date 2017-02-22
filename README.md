@@ -1,5 +1,5 @@
 # Scene Text Localization & Recognition Resources
-A curated list of resources dedicated to scene text localization and recognition
+A curated list of resources dedicated to scene text localization and recognition. Any suggestions and pull requests are welcome.
 
 ## Papers & Code
 
