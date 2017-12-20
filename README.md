@@ -41,6 +41,18 @@ A curated list of resources dedicated to scene text localization and recognition
 - [2016-arXiv] COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images [`paper`](http://vision.cornell.edu/se3/wp-content/uploads/2016/01/1601.07140v1.pdf)
 - [2016-arXiv] DeepText:A Unified Framework for Text Proposal Generation and Text Detection in Natural Images [`paper`](http://arxiv.org/abs/1605.07314)
 - [2015 ICDAR] Object Proposals for Text Extraction in the Wild [`paper`](http://arxiv.org/abs/1509.02317) [`code`](https://github.com/lluisgomez/TextProposals)
+- [2017-arXiv] Fused Text Segmentation Networks for Multi-oriented Scene Text Detection [`paper`](https://arxiv.org/pdf/1709.03272.pdf) 
+- [2017-arXiv] WeText: Scene Text Detection under Weak Supervision [`paper`](https://arxiv.org/abs/1710.04826)
+- [2017-ICCV] Single Shot Text Detector with Regional Attention [`paper`](https://arxiv.org/pdf/1709.00138.pdf)
+- [2017-ICCV] WordSup: Exploiting Word Annotations for Character based Text Detection [`paper`](https://arxiv.org/pdf/1708.06720.pdf)
+- [2017-arXiv] R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection [`paper`](https://arxiv.org/ftp/arxiv/papers/1706/1706.09579.pdf)
+- [2017-CVPR] EAST: An Efficient and Accurate Scene Text Detector [`paper`](https://arxiv.org/abs/1704.03155) [`code`](https://github.com/argman/EAST)
+- [2017-arXiv] Cascaded Segmentation-Detection Networks for Word-Level Text Spotting[`paper`](https://arxiv.org/abs/1704.00834)
+- [2017-arXiv] Deep Direct Regression for Multi-Oriented Scene Text Detection[`paper`](https://arxiv.org/pdf/1703.08289.pdf)
+- [2017-CVPR] Detecting oriented text in natural images by linking segments [paper](http://mc.eistar.net/UpLoadFiles/Papers/SegLink_CVPR17.pdf) [`code`](https://github.com/bgshih/seglink)
+- [2017-CVPR] Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection[`paper`](https://arxiv.org/pdf/1703.01425.pdf)
+- [2017-arXiv] Arbitrary-Oriented Scene Text Detection via Rotation Proposals [`paper`](https://arxiv.org/pdf/1703.01086.pdf)
+- [2017-AAAI] TextBoxes: A Fast Text Detector with a Single Deep Neural Network [`paper`](https://arxiv.org/abs/1611.06779) [`code`](https://github.com/MhLiao/TextBoxes)
 
 ## Datasets
 - [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`
